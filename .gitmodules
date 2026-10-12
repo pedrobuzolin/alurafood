@@ -1,0 +1,3 @@
+[submodule "pedidos"]
+	path = pedidos
+	url = https://github.com/pedrobuzolin/alurafood-pedidos.git
