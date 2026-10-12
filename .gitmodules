@@ -4,3 +4,6 @@
 [submodule "pagamentos"]
 	path = pagamentos
 	url = https://github.com/pedrobuzolin/alurafood-pagamento.git
+[submodule "server"]
+	path = server
+	url = https://github.com/pedrobuzolin/alurafood-server.git
