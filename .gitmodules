@@ -7,6 +7,3 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/pedrobuzolin/alurafood-server.git
-[submodule "alurafood-gateway"]
-	path = alurafood-gateway
-	url = https://github.com/pedrobuzolin/alurafood-gateway.git
