@@ -10,3 +10,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/pedrobuzolin/alurafood-gateway.git
+[submodule "avaliacao"]
+	path = avaliacao
+	url = https://github.com/pedrobuzolin/alurafood-avaliacao.git
